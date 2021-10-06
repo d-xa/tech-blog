@@ -1,4 +1,4 @@
-baseurl = "https://dxa.tech"
+baseurl = "https://d-xa.github.io/tech-blog/"
 title = "Anhs Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
