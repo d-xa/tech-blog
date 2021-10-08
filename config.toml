@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+  sidebar_about_description = "Data Science | Data Engineering | Software Engineering | DevOps and Cloud"
   sidebar_avatar = "img/spiderman.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
@@ -101,6 +101,9 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "BOOKS"
   href =  "/top/books/"
+  [[params.addtional_menus]]
+  title =  "QUOTES"
+  href =  "/top/quotes/"
   [[params.addtional_menus]]
   title =  "ARCHIVE"
   href =  "/top/archive/"
