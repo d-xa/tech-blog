@@ -30,9 +30,9 @@ home = ["HTML", "RSS", "Algolia"]
   leancloud_app_key = ""
 
   # algolia site search
-  algolia_search = true
+  algolia_search = false #true
   algolia_appId = ""
-  algolia_indexName = ""
+  algolia_indexName = "anh-tech-blog"
   algolia_apiKey = ""
 
   # Sidebar settings
