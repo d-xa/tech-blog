@@ -56,9 +56,6 @@
 <li><a href=/tech-blog/top/quotes/>QUOTES</a></li>
 <li><a href=/tech-blog/top/archive/>ARCHIVE</a></li>
 <li><a href=/tech-blog/top/about/>ABOUT</a></li>
-<li>
-<a href=/tech-blog/search><i class="fa fa-search"></i></a>
-</li>
 </ul>
 </div>
 </div>
@@ -91,7 +88,7 @@ post-container">
 <div id=search-searchbar></div>
 <div class=post-list id=search-hits>
 </div>
-<script>const search=instantsearch({appId:'',indexName:'',apiKey:''}),hitTemplate=function(a){let c='';a.date&&(c=moment.unix(a.date).format('MMM D, YYYY'));let d=`${a.url}#${a.anchor}`;const f=a._highlightResult.title.value;let e='';a._highlightResult.headings&&(e=a._highlightResult.headings.map(a=>`<span class="post-breadcrumb">${a.value}</span>`).join(' > '));let b="";return a._highlightResult.content?b=a._highlightResult.content.value:b=a.summary,`
+<script>const search=instantsearch({appId:'',indexName:'anh-tech-blog',apiKey:''}),hitTemplate=function(a){let c='';a.date&&(c=moment.unix(a.date).format('MMM D, YYYY'));let d=`${a.url}#${a.anchor}`;const f=a._highlightResult.title.value;let e='';a._highlightResult.headings&&(e=a._highlightResult.headings.map(a=>`<span class="post-breadcrumb">${a.value}</span>`).join(' > '));let b="";return a._highlightResult.content?b=a._highlightResult.content.value:b=a.summary,`
     <div class="post-item">
       <span class="post-meta">${c}</span>
       <h2><a class="post-link" href="${d}">${f}</a></h2>
