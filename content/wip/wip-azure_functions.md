@@ -2,7 +2,7 @@
 title:       "Azure Functions"
 subtitle:    ""
 description: ""
-date:        2010-10-xx
+date:        2021-10-09
 author:      "X. Anh Do"
 image:       "img/landscape_pins_cropped_conv.jpg"
 tags:        ["ML", "Machine Learning", "AI", "DataScience"]
