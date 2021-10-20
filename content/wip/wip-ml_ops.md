@@ -2,7 +2,7 @@
 title:       "What is MLOps"
 subtitle:    ""
 description: ""
-date:        2010-10-xx
+date:        2021-10-08
 author:      "X. Anh Do"
 image:       "img/tree.jpg"
 tags:        ["MLOps", "Machine Learning", "DevOps", "DataScience"]
