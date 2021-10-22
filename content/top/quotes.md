@@ -20,3 +20,9 @@
 > "Believe you can and you're halfway there." (Theodore Roosevelt)
 
 > "Great things are not done by impulse, but by a series of small things brought together." (Vincent Van Gogh)
+
+> "We are what we think. All that we are arises with our thoughts. With our thoughts, we make the world." (Buddha)
+
+> "As you think, so shall you become." (Bruce Lee)
+
+> "Always be yourself, express yourself, have faith in yourself." (Bruce Lee)
